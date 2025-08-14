@@ -1,0 +1,22 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MyLocal",
+            "database": "shop",
+            "username": "root",
+            "password": "HETsejal1979"
+        }
+    ],
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
