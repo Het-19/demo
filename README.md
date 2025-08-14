@@ -1,3 +1,4 @@
 # Demo
-This is my first Git Repostitary.\n
+This is my first Git Repostitary.
+<br>
 Author - Het Patel
